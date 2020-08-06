@@ -1,0 +1,16 @@
+[INFO ] 2020-07-31 19:18:13.593 [main] Log4jdemo - this is information message 
+[ERROR] 2020-07-31 19:18:13.675 [main] Log4jdemo - This is an error message
+[WARN ] 2020-07-31 19:18:13.675 [main] Log4jdemo - This is a warning  message
+[FATAL] 2020-07-31 19:18:13.675 [main] Log4jdemo - This is a fatal message
+[INFO ] 2020-07-31 19:20:47.639 [main] Log4jdemo - this is information message 
+[INFO ] 2020-07-31 19:20:47.639 [main] Log4jdemo - this is information message 
+[ERROR] 2020-07-31 19:20:47.709 [main] Log4jdemo - This is an error message
+[ERROR] 2020-07-31 19:20:47.709 [main] Log4jdemo - This is an error message
+[WARN ] 2020-07-31 19:20:47.709 [main] Log4jdemo - This is a warning  message
+[WARN ] 2020-07-31 19:20:47.709 [main] Log4jdemo - This is a warning  message
+[FATAL] 2020-07-31 19:20:47.709 [main] Log4jdemo - This is a fatal message
+[FATAL] 2020-07-31 19:20:47.710 [main] Log4jdemo - This is a fatal message
+[INFO ] 2020-07-31 20:00:07.878 [main] Log4jdemo - this is information message 
+[ERROR] 2020-07-31 20:00:07.954 [main] Log4jdemo - This is an error message
+[WARN ] 2020-07-31 20:00:07.954 [main] Log4jdemo - This is a warning  message
+[FATAL] 2020-07-31 20:00:07.955 [main] Log4jdemo - This is a fatal message
